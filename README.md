@@ -1,7 +1,7 @@
 Rofi switch browser tabs
 ===================
 
-This script allow to use [rofi] to switch between tabs for browsers implementing the [Chrome Debugging Protocol]. It's a fork and lighter rewrite of the [original repo], and credits should go to its author. Firefox-based browser are not supported as of v105.0 (but support will be implemented). 
+This script allow to use [rofi] to switch between tabs for browsers implementing the [Chrome Debugging Protocol]. It's a fork and lighter rewrite of the [original repo], and credits should go to its author. Firefox-based browsers are not supported as of v105.0 (but support will be implemented). 
 
 #### Dependencies
 - wget
