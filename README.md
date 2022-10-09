@@ -13,4 +13,4 @@ This script allow to use [rofi] to switch between tabs for browsers implementing
 3. Invoke rofi with `rofi -modi 'switch-tabs:switch-browser-tabs' -show switch-tabs`
 
 [rofi]: https://github.com/davatorium/rofi
-[original repo]: https://github.com/kevinmorio/switch-browser-tabs
+[original repo]: https://github.com/kevinmorio/rofi-switch-browser-tabs
